@@ -19,19 +19,21 @@ responsePromise.then(function(response){
     console.log("Encountered with an error");
 })
 
-let allMatchesInfo = [];
 
 function withdrawInfo(document){
     let totalMatchCards = document.querySelectorAll("div.match-info.match-info-FIXTURES");
 
-    let matchProperties = {
-    }
-    setProperties(matchProperties, totalMatchCards);
+    setProperties(totalMatchCards);
 }
 
-function setProperties(property, cards){
+let allMatchesInfo = [];
+
+function setProperties(cards){
 
     for(let i = 0; i < cards.length; i++){
+
+        let property = {};
+
         let venueAndDate = cards[i].querySelector(".description").textContent;
         property.venue = venueAndDate.split(",")[1].trim();
         property.dt = venueAndDate.split(",")[2].trim();
@@ -48,14 +50,10 @@ function setProperties(property, cards){
         property.t2Score = scores[1].textContent;
         allMatchesInfo.push(property);
     }
-    // console.log(allMatchesInfo);
+    console.log(allMatchesInfo.length);
     let dataInJson = JSON.stringify(allMatchesInfo);
     fs.writeFile('Raw-Data.json', dataInJson, {encoding: "utf-8"}, (err) => {
-        if(err)
-            console.log(err);
-        else{
-            console.log("File written successfully");
-        }
+        if(err) throw err;
     })
     // console.log("Done");
 }

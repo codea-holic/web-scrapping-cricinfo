@@ -1,534 +1,534 @@
 [
     {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "venue": "Dubai (DSC)",
+        "dt": "Nov 10 2020",
+        "team1": "Delhi Capitals",
+        "team2": "Mumbai Indians",
+        "result": "Mumbai won by 5 wickets (with 8 balls remaining)",
+        "t1Score": "156/7",
+        "t2Score": "157/5"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "dt": "Nov 8 2020",
+        "team1": "Delhi Capitals",
+        "team2": "Sunrisers Hyderabad",
+        "result": "Capitals won by 17 runs",
+        "t1Score": "189/3",
+        "t2Score": "172/8"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
+        "dt": "Nov 6 2020",
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Sunrisers Hyderabad",
+        "result": "Sunrisers won by 6 wickets (with 2 balls remaining)",
+        "t1Score": "131/7",
+        "t2Score": "132/4"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Nov 5 2020",
         "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "team2": "Delhi Capitals",
+        "result": "Mumbai won by 57 runs",
+        "t1Score": "200/5",
+        "t2Score": "143/8"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Nov 3 2020",
+        "team1": "Mumbai Indians",
+        "team2": "Sunrisers Hyderabad",
+        "result": "Sunrisers won by 10 wickets (with 17 balls remaining)",
+        "t1Score": "149/8",
+        "t2Score": "151/0"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "dt": "Nov 2 2020",
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Delhi Capitals",
+        "result": "Capitals won by 6 wickets (with 6 balls remaining)",
+        "t1Score": "152/7",
+        "t2Score": "154/4"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Nov 1 2020",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Rajasthan Royals",
+        "result": "KKR won by 60 runs",
+        "t1Score": "191/7",
+        "t2Score": "131/9"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
+        "dt": "Nov 1 2020",
+        "team1": "Kings XI Punjab",
         "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "result": "Super Kings won by 9 wickets (with 7 balls remaining)",
+        "t1Score": "153/6",
+        "t2Score": "154/1"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Oct 31 2020",
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Sunrisers Hyderabad",
+        "result": "Sunrisers won by 5 wickets (with 35 balls remaining)",
+        "t1Score": "120/7",
+        "t2Score": "121/5"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 31 2020",
+        "team1": "Delhi Capitals",
+        "team2": "Mumbai Indians",
+        "result": "Mumbai won by 9 wickets (with 34 balls remaining)",
+        "t1Score": "110/9",
+        "t2Score": "111/1"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
+        "dt": "Oct 30 2020",
+        "team1": "Kings XI Punjab",
+        "team2": "Rajasthan Royals",
+        "result": "Royals won by 7 wickets (with 15 balls remaining)",
+        "t1Score": "185/4",
+        "t2Score": "186/3"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 29 2020",
+        "team1": "Kolkata Knight Riders",
         "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "result": "Super Kings won by 6 wickets",
+        "t1Score": "172/5",
+        "t2Score": "178/4"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
+        "dt": "Oct 28 2020",
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Mumbai Indians",
+        "result": "Mumbai won by 5 wickets (with 5 balls remaining)",
+        "t1Score": "164/6",
         "t2Score": "166/5"
     },
     {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 27 2020",
+        "team1": "Sunrisers Hyderabad",
+        "team2": "Delhi Capitals",
+        "result": "Sunrisers won by 88 runs",
+        "t1Score": "219/2",
+        "t2Score": "131"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Oct 26 2020",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Kings XI Punjab",
+        "result": "Kings XI won by 8 wickets (with 7 balls remaining)",
+        "t1Score": "149/9",
+        "t2Score": "150/2"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
+        "dt": "Oct 25 2020",
         "team1": "Mumbai Indians",
+        "team2": "Rajasthan Royals",
+        "result": "Royals won by 8 wickets (with 10 balls remaining)",
+        "t1Score": "195/5",
+        "t2Score": "196/2"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 25 2020",
+        "team1": "Royal Challengers Bangalore",
         "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "result": "Super Kings won by 8 wickets (with 8 balls remaining)",
+        "t1Score": "145/6",
+        "t2Score": "150/2"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 24 2020",
+        "team1": "Kings XI Punjab",
+        "team2": "Sunrisers Hyderabad",
+        "result": "Kings XI won by 12 runs",
+        "t1Score": "126/7",
+        "t2Score": "114"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "dt": "Oct 24 2020",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Delhi Capitals",
+        "result": "KKR won by 59 runs",
+        "t1Score": "194/6",
+        "t2Score": "135/9"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Oct 23 2020",
+        "team1": "Chennai Super Kings",
+        "team2": "Mumbai Indians",
+        "result": "Mumbai won by 10 wickets (with 46 balls remaining)",
+        "t1Score": "114/9",
+        "t2Score": "116/0"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 22 2020",
+        "team1": "Rajasthan Royals",
+        "team2": "Sunrisers Hyderabad",
+        "result": "Sunrisers won by 8 wickets (with 11 balls remaining)",
+        "t1Score": "154/6",
+        "t2Score": "156/2"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "dt": "Oct 21 2020",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Royal Challengers Bangalore",
+        "result": "RCB won by 8 wickets (with 39 balls remaining)",
+        "t1Score": "84/8",
+        "t2Score": "85/2"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 20 2020",
+        "team1": "Delhi Capitals",
+        "team2": "Kings XI Punjab",
+        "result": "Kings XI won by 5 wickets (with 6 balls remaining)",
+        "t1Score": "164/5",
+        "t2Score": "167/5"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
+        "dt": "Oct 19 2020",
+        "team1": "Chennai Super Kings",
+        "team2": "Rajasthan Royals",
+        "result": "Royals won by 7 wickets (with 15 balls remaining)",
+        "t1Score": "125/5",
+        "t2Score": "126/3"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 18 2020",
         "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "team2": "Kings XI Punjab",
+        "result": "Match tied (Kings XI won the one-over eliminator)",
+        "t1Score": "176/6",
+        "t2Score": "176/6"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "dt": "Oct 18 2020",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Sunrisers Hyderabad",
+        "result": "Match tied (KKR won the one-over eliminator)",
+        "t1Score": "163/5",
+        "t2Score": "163/6"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Oct 17 2020",
+        "team1": "Chennai Super Kings",
+        "team2": "Delhi Capitals",
+        "result": "Capitals won by 5 wickets (with 1 ball remaining)",
+        "t1Score": "179/4",
+        "t2Score": "185/5"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 17 2020",
+        "team1": "Rajasthan Royals",
+        "team2": "Royal Challengers Bangalore",
+        "result": "RCB won by 7 wickets (with 2 balls remaining)",
+        "t1Score": "177/6",
+        "t2Score": "179/3"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "dt": "Oct 16 2020",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Mumbai Indians",
+        "result": "Mumbai won by 8 wickets (with 19 balls remaining)",
+        "t1Score": "148/5",
+        "t2Score": "149/2"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Oct 15 2020",
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Kings XI Punjab",
+        "result": "Kings XI won by 8 wickets",
+        "t1Score": "171/6",
+        "t2Score": "177/2"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 14 2020",
+        "team1": "Delhi Capitals",
+        "team2": "Rajasthan Royals",
+        "result": "Capitals won by 13 runs",
+        "t1Score": "161/7",
+        "t2Score": "148/8"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 13 2020",
+        "team1": "Chennai Super Kings",
+        "team2": "Sunrisers Hyderabad",
+        "result": "Super Kings won by 20 runs",
+        "t1Score": "167/6",
+        "t2Score": "147/8"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Oct 12 2020",
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Kolkata Knight Riders",
+        "result": "RCB won by 82 runs",
+        "t1Score": "194/2",
+        "t2Score": "112/9"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
+        "dt": "Oct 11 2020",
+        "team1": "Delhi Capitals",
+        "team2": "Mumbai Indians",
+        "result": "Mumbai won by 5 wickets (with 2 balls remaining)",
+        "t1Score": "162/4",
         "t2Score": "166/5"
     },
     {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 11 2020",
+        "team1": "Sunrisers Hyderabad",
+        "team2": "Rajasthan Royals",
+        "result": "Royals won by 5 wickets (with 1 ball remaining)",
+        "t1Score": "158/4",
+        "t2Score": "163/5"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 10 2020",
+        "team1": "Royal Challengers Bangalore",
         "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "result": "RCB won by 37 runs",
+        "t1Score": "169/4",
+        "t2Score": "132/8"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "dt": "Oct 10 2020",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Kings XI Punjab",
+        "result": "KKR won by 2 runs",
+        "t1Score": "164/6",
+        "t2Score": "162/5"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Oct 9 2020",
+        "team1": "Delhi Capitals",
+        "team2": "Rajasthan Royals",
+        "result": "Capitals won by 46 runs",
+        "t1Score": "184/8",
+        "t2Score": "138"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 8 2020",
+        "team1": "Sunrisers Hyderabad",
+        "team2": "Kings XI Punjab",
+        "result": "Sunrisers won by 69 runs",
+        "t1Score": "201/6",
+        "t2Score": "132"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
+        "dt": "Oct 7 2020",
+        "team1": "Kolkata Knight Riders",
         "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "result": "KKR won by 10 runs",
+        "t1Score": "167",
+        "t2Score": "157/5"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
+        "dt": "Oct 6 2020",
         "team1": "Mumbai Indians",
+        "team2": "Rajasthan Royals",
+        "result": "Mumbai won by 57 runs",
+        "t1Score": "193/4",
+        "t2Score": "136"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 5 2020",
+        "team1": "Delhi Capitals",
+        "team2": "Royal Challengers Bangalore",
+        "result": "Capitals won by 59 runs",
+        "t1Score": "196/4",
+        "t2Score": "137/9"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 4 2020",
+        "team1": "Kings XI Punjab",
         "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "result": "Super Kings won by 10 wickets (with 14 balls remaining)",
+        "t1Score": "178/4",
+        "t2Score": "181/0"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Oct 4 2020",
+        "team1": "Mumbai Indians",
+        "team2": "Sunrisers Hyderabad",
+        "result": "Mumbai won by 34 runs",
+        "t1Score": "208/5",
+        "t2Score": "174/7"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Oct 3 2020",
+        "team1": "Delhi Capitals",
+        "team2": "Kolkata Knight Riders",
+        "result": "Capitals won by 18 runs",
+        "t1Score": "228/4",
+        "t2Score": "210/8"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
+        "dt": "Oct 3 2020",
+        "team1": "Rajasthan Royals",
+        "team2": "Royal Challengers Bangalore",
+        "result": "RCB won by 8 wickets (with 5 balls remaining)",
+        "t1Score": "154/6",
+        "t2Score": "158/2"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Oct 2 2020",
+        "team1": "Sunrisers Hyderabad",
         "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "result": "Sunrisers won by 7 runs",
+        "t1Score": "164/5",
+        "t2Score": "157/5"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
+        "dt": "Oct 1 2020",
         "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "team2": "Kings XI Punjab",
+        "result": "Mumbai won by 48 runs",
+        "t1Score": "191/4",
+        "t2Score": "143/8"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Sep 30 2020",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Rajasthan Royals",
+        "result": "KKR won by 37 runs",
+        "t1Score": "174/6",
+        "t2Score": "137/9"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "dt": "Sep 29 2020",
+        "team1": "Sunrisers Hyderabad",
+        "team2": "Delhi Capitals",
+        "result": "Sunrisers won by 15 runs",
+        "t1Score": "162/4",
+        "t2Score": "147/7"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Sep 28 2020",
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Mumbai Indians",
+        "result": "Match tied (RCB won the one-over eliminator)",
+        "t1Score": "201/3",
+        "t2Score": "201/5"
+    },
+    {
+        "venue": "Sharjah",
+        "dt": "Sep 27 2020",
+        "team1": "Kings XI Punjab",
+        "team2": "Rajasthan Royals",
+        "result": "Royals won by 4 wickets (with 3 balls remaining)",
+        "t1Score": "223/2",
+        "t2Score": "226/6"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
+        "dt": "Sep 26 2020",
+        "team1": "Sunrisers Hyderabad",
+        "team2": "Kolkata Knight Riders",
+        "result": "KKR won by 7 wickets (with 12 balls remaining)",
+        "t1Score": "142/4",
+        "t2Score": "145/3"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Sep 25 2020",
+        "team1": "Delhi Capitals",
         "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "result": "Capitals won by 44 runs",
+        "t1Score": "175/3",
+        "t2Score": "131/7"
+    },
+    {
+        "venue": "Dubai (DSC)",
+        "dt": "Sep 24 2020",
+        "team1": "Kings XI Punjab",
+        "team2": "Royal Challengers Bangalore",
+        "result": "Kings XI won by 97 runs",
+        "t1Score": "206/3",
+        "t2Score": "109"
     },
     {
         "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
+        "dt": "Sep 23 2020",
         "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "team2": "Kolkata Knight Riders",
+        "result": "Mumbai won by 49 runs",
+        "t1Score": "195/5",
+        "t2Score": "146/9"
     },
     {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
+        "venue": "Sharjah",
+        "dt": "Sep 22 2020",
+        "team1": "Rajasthan Royals",
         "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "result": "Royals won by 16 runs",
+        "t1Score": "216/7",
+        "t2Score": "200/6"
     },
     {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "venue": "Dubai (DSC)",
+        "dt": "Sep 21 2020",
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Sunrisers Hyderabad",
+        "result": "RCB won by 10 runs",
+        "t1Score": "163/5",
+        "t2Score": "153"
     },
     {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
-    },
-    {
-        "venue": "Abu Dhabi",
-        "dt": "Sep 19 2020",
-        "team1": "Mumbai Indians",
-        "team2": "Chennai Super Kings",
-        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
-        "t1Score": "162/9",
-        "t2Score": "166/5"
+        "venue": "Dubai (DSC)",
+        "dt": "Sep 20 2020",
+        "team1": "Delhi Capitals",
+        "team2": "Kings XI Punjab",
+        "result": "Match tied (Capitals won the one-over eliminator)",
+        "t1Score": "157/8",
+        "t2Score": "157/8"
     },
     {
         "venue": "Abu Dhabi",
