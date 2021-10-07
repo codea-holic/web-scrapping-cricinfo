@@ -48,7 +48,14 @@ function setProperties(property, cards){
         property.t2Score = scores[1].textContent;
         allMatchesInfo.push(property);
     }
-
     // console.log(allMatchesInfo);
-    console.log("Done");
+    let dataInJson = JSON.stringify(allMatchesInfo);
+    fs.writeFile('Raw-Data.json', dataInJson, {encoding: "utf-8"}, (err) => {
+        if(err)
+            console.log(err);
+        else{
+            console.log("File written successfully");
+        }
+    })
+    // console.log("Done");
 }
