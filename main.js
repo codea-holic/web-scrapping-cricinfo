@@ -31,26 +31,24 @@ function withdrawInfo(document){
 
 function setProperties(property, cards){
 
-    // for(let i = 0; i < cards.length; i++){
-        let venueAndDate = cards[0].querySelector(".description").textContent;
+    for(let i = 0; i < cards.length; i++){
+        let venueAndDate = cards[i].querySelector(".description").textContent;
         property.venue = venueAndDate.split(",")[1].trim();
         property.dt = venueAndDate.split(",")[2].trim();
-        console.log(property.venue);
-        console.log(property.dt);
 
-        let teams = cards[0].querySelectorAll(".teams p.name");
+        let teams = cards[i].querySelectorAll(".teams p.name");
         property.team1 = teams[0].textContent;
         property.team2 = teams[1].textContent;
-        console.log(property.team1);
-        console.log(property.team2);
 
-        let status = cards[0].querySelector("div.status-text span");
+        let status = cards[i].querySelector("div.status-text span");
         property.result = status.textContent;
-        console.log(property.result);
-        // console.log(status.textContent);
 
+        let scores = cards[i].querySelectorAll(".teams .score");
+        property.t1Score = scores[0].textContent;
+        property.t2Score = scores[1].textContent;
         allMatchesInfo.push(property);
-    // }
+    }
 
-    console.log(allMatchesInfo);
+    // console.log(allMatchesInfo);
+    console.log("Done");
 }
