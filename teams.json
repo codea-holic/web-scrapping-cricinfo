@@ -1,0 +1,882 @@
+[
+    {
+        "name": "Delhi Capitals",
+        "matches": [
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Mumbai Indians",
+                "itsScore": "156/7",
+                "oppScore": "157/5",
+                "result": "Mumbai won by 5 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "189/3",
+                "oppScore": "172/8",
+                "result": "Capitals won by 17 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Mumbai Indians",
+                "itsScore": "143/8",
+                "oppScore": "200/5",
+                "result": "Mumbai won by 57 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "154/4",
+                "oppScore": "152/7",
+                "result": "Capitals won by 6 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Mumbai Indians",
+                "itsScore": "110/9",
+                "oppScore": "111/1",
+                "result": "Mumbai won by 9 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "131",
+                "oppScore": "219/2",
+                "result": "Sunrisers won by 88 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "135/9",
+                "oppScore": "194/6",
+                "result": "KKR won by 59 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "164/5",
+                "oppScore": "167/5",
+                "result": "Kings XI won by 5 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "185/5",
+                "oppScore": "179/4",
+                "result": "Capitals won by 5 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "161/7",
+                "oppScore": "148/8",
+                "result": "Capitals won by 13 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Mumbai Indians",
+                "itsScore": "162/4",
+                "oppScore": "166/5",
+                "result": "Mumbai won by 5 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "184/8",
+                "oppScore": "138",
+                "result": "Capitals won by 46 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "196/4",
+                "oppScore": "137/9",
+                "result": "Capitals won by 59 runs"
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "228/4",
+                "oppScore": "210/8",
+                "result": "Capitals won by 18 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "147/7",
+                "oppScore": "162/4",
+                "result": "Sunrisers won by 15 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "175/3",
+                "oppScore": "131/7",
+                "result": "Capitals won by 44 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "157/8",
+                "oppScore": "157/8",
+                "result": "Match tied "
+            }
+        ]
+    },
+    {
+        "name": "Royal Challengers Bangalore",
+        "matches": [
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "131/7",
+                "oppScore": "132/4",
+                "result": "Sunrisers won by 6 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Delhi Capitals",
+                "itsScore": "152/7",
+                "oppScore": "154/4",
+                "result": "Capitals won by 6 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "120/7",
+                "oppScore": "121/5",
+                "result": "Sunrisers won by 5 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Mumbai Indians",
+                "itsScore": "164/6",
+                "oppScore": "166/5",
+                "result": "Mumbai won by 5 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "145/6",
+                "oppScore": "150/2",
+                "result": "Super Kings won by 8 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "85/2",
+                "oppScore": "84/8",
+                "result": "RCB won by 8 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "179/3",
+                "oppScore": "177/6",
+                "result": "RCB won by 7 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "171/6",
+                "oppScore": "177/2",
+                "result": "Kings XI won by 8 wickets"
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "194/2",
+                "oppScore": "112/9",
+                "result": "RCB won by 82 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "169/4",
+                "oppScore": "132/8",
+                "result": "RCB won by 37 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Delhi Capitals",
+                "itsScore": "137/9",
+                "oppScore": "196/4",
+                "result": "Capitals won by 59 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "158/2",
+                "oppScore": "154/6",
+                "result": "RCB won by 8 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Mumbai Indians",
+                "itsScore": "201/3",
+                "oppScore": "201/5",
+                "result": "Match tied "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "109",
+                "oppScore": "206/3",
+                "result": "Kings XI won by 97 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "163/5",
+                "oppScore": "153",
+                "result": "RCB won by 10 runs"
+            }
+        ]
+    },
+    {
+        "name": "Mumbai Indians",
+        "matches": [
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Delhi Capitals",
+                "itsScore": "157/5",
+                "oppScore": "156/7",
+                "result": "Mumbai won by 5 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Delhi Capitals",
+                "itsScore": "200/5",
+                "oppScore": "143/8",
+                "result": "Mumbai won by 57 runs"
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "149/8",
+                "oppScore": "151/0",
+                "result": "Sunrisers won by 10 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Delhi Capitals",
+                "itsScore": "111/1",
+                "oppScore": "110/9",
+                "result": "Mumbai won by 9 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "166/5",
+                "oppScore": "164/6",
+                "result": "Mumbai won by 5 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "195/5",
+                "oppScore": "196/2",
+                "result": "Royals won by 8 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "116/0",
+                "oppScore": "114/9",
+                "result": "Mumbai won by 10 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "176/6",
+                "oppScore": "176/6",
+                "result": "Match tied "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "149/2",
+                "oppScore": "148/5",
+                "result": "Mumbai won by 8 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Delhi Capitals",
+                "itsScore": "166/5",
+                "oppScore": "162/4",
+                "result": "Mumbai won by 5 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "193/4",
+                "oppScore": "136",
+                "result": "Mumbai won by 57 runs"
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "208/5",
+                "oppScore": "174/7",
+                "result": "Mumbai won by 34 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "191/4",
+                "oppScore": "143/8",
+                "result": "Mumbai won by 48 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "201/5",
+                "oppScore": "201/3",
+                "result": "Match tied "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "195/5",
+                "oppScore": "146/9",
+                "result": "Mumbai won by 49 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "162/9",
+                "oppScore": "166/5",
+                "result": "Super Kings won by 5 wickets "
+            }
+        ]
+    },
+    {
+        "name": "Kolkata Knight Riders",
+        "matches": [
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "191/7",
+                "oppScore": "131/9",
+                "result": "KKR won by 60 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "172/5",
+                "oppScore": "178/4",
+                "result": "Super Kings won by 6 wickets"
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "149/9",
+                "oppScore": "150/2",
+                "result": "Kings XI won by 8 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Delhi Capitals",
+                "itsScore": "194/6",
+                "oppScore": "135/9",
+                "result": "KKR won by 59 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "84/8",
+                "oppScore": "85/2",
+                "result": "RCB won by 8 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "163/5",
+                "oppScore": "163/6",
+                "result": "Match tied "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Mumbai Indians",
+                "itsScore": "148/5",
+                "oppScore": "149/2",
+                "result": "Mumbai won by 8 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "112/9",
+                "oppScore": "194/2",
+                "result": "RCB won by 82 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "164/6",
+                "oppScore": "162/5",
+                "result": "KKR won by 2 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "167",
+                "oppScore": "157/5",
+                "result": "KKR won by 10 runs"
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Delhi Capitals",
+                "itsScore": "210/8",
+                "oppScore": "228/4",
+                "result": "Capitals won by 18 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "174/6",
+                "oppScore": "137/9",
+                "result": "KKR won by 37 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "145/3",
+                "oppScore": "142/4",
+                "result": "KKR won by 7 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Mumbai Indians",
+                "itsScore": "146/9",
+                "oppScore": "195/5",
+                "result": "Mumbai won by 49 runs"
+            }
+        ]
+    },
+    {
+        "name": "Kings XI Punjab",
+        "matches": [
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "153/6",
+                "oppScore": "154/1",
+                "result": "Super Kings won by 9 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "185/4",
+                "oppScore": "186/3",
+                "result": "Royals won by 7 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "150/2",
+                "oppScore": "149/9",
+                "result": "Kings XI won by 8 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "126/7",
+                "oppScore": "114",
+                "result": "Kings XI won by 12 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Delhi Capitals",
+                "itsScore": "167/5",
+                "oppScore": "164/5",
+                "result": "Kings XI won by 5 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Mumbai Indians",
+                "itsScore": "176/6",
+                "oppScore": "176/6",
+                "result": "Match tied "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "177/2",
+                "oppScore": "171/6",
+                "result": "Kings XI won by 8 wickets"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "162/5",
+                "oppScore": "164/6",
+                "result": "KKR won by 2 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "132",
+                "oppScore": "201/6",
+                "result": "Sunrisers won by 69 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "178/4",
+                "oppScore": "181/0",
+                "result": "Super Kings won by 10 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Mumbai Indians",
+                "itsScore": "143/8",
+                "oppScore": "191/4",
+                "result": "Mumbai won by 48 runs"
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "223/2",
+                "oppScore": "226/6",
+                "result": "Royals won by 4 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "206/3",
+                "oppScore": "109",
+                "result": "Kings XI won by 97 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Delhi Capitals",
+                "itsScore": "157/8",
+                "oppScore": "157/8",
+                "result": "Match tied "
+            }
+        ]
+    },
+    {
+        "name": "Sunrisers Hyderabad",
+        "matches": [
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Delhi Capitals",
+                "itsScore": "172/8",
+                "oppScore": "189/3",
+                "result": "Capitals won by 17 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "132/4",
+                "oppScore": "131/7",
+                "result": "Sunrisers won by 6 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Mumbai Indians",
+                "itsScore": "151/0",
+                "oppScore": "149/8",
+                "result": "Sunrisers won by 10 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "121/5",
+                "oppScore": "120/7",
+                "result": "Sunrisers won by 5 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Delhi Capitals",
+                "itsScore": "219/2",
+                "oppScore": "131",
+                "result": "Sunrisers won by 88 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "114",
+                "oppScore": "126/7",
+                "result": "Kings XI won by 12 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "156/2",
+                "oppScore": "154/6",
+                "result": "Sunrisers won by 8 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "163/6",
+                "oppScore": "163/5",
+                "result": "Match tied "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "147/8",
+                "oppScore": "167/6",
+                "result": "Super Kings won by 20 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "158/4",
+                "oppScore": "163/5",
+                "result": "Royals won by 5 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "201/6",
+                "oppScore": "132",
+                "result": "Sunrisers won by 69 runs"
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Mumbai Indians",
+                "itsScore": "174/7",
+                "oppScore": "208/5",
+                "result": "Mumbai won by 34 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "164/5",
+                "oppScore": "157/5",
+                "result": "Sunrisers won by 7 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Delhi Capitals",
+                "itsScore": "162/4",
+                "oppScore": "147/7",
+                "result": "Sunrisers won by 15 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "142/4",
+                "oppScore": "145/3",
+                "result": "KKR won by 7 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "153",
+                "oppScore": "163/5",
+                "result": "RCB won by 10 runs"
+            }
+        ]
+    },
+    {
+        "name": "Chennai Super Kings",
+        "matches": [
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "154/1",
+                "oppScore": "153/6",
+                "result": "Super Kings won by 9 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "178/4",
+                "oppScore": "172/5",
+                "result": "Super Kings won by 6 wickets"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "150/2",
+                "oppScore": "145/6",
+                "result": "Super Kings won by 8 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Mumbai Indians",
+                "itsScore": "114/9",
+                "oppScore": "116/0",
+                "result": "Mumbai won by 10 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "125/5",
+                "oppScore": "126/3",
+                "result": "Royals won by 7 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Delhi Capitals",
+                "itsScore": "179/4",
+                "oppScore": "185/5",
+                "result": "Capitals won by 5 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "167/6",
+                "oppScore": "147/8",
+                "result": "Super Kings won by 20 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "132/8",
+                "oppScore": "169/4",
+                "result": "RCB won by 37 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "157/5",
+                "oppScore": "167",
+                "result": "KKR won by 10 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "181/0",
+                "oppScore": "178/4",
+                "result": "Super Kings won by 10 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "157/5",
+                "oppScore": "164/5",
+                "result": "Sunrisers won by 7 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Delhi Capitals",
+                "itsScore": "131/7",
+                "oppScore": "175/3",
+                "result": "Capitals won by 44 runs"
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Rajasthan Royals",
+                "itsScore": "200/6",
+                "oppScore": "216/7",
+                "result": "Royals won by 16 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Mumbai Indians",
+                "itsScore": "166/5",
+                "oppScore": "162/9",
+                "result": "Super Kings won by 5 wickets "
+            }
+        ]
+    },
+    {
+        "name": "Rajasthan Royals",
+        "matches": [
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "131/9",
+                "oppScore": "191/7",
+                "result": "KKR won by 60 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "186/3",
+                "oppScore": "185/4",
+                "result": "Royals won by 7 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Mumbai Indians",
+                "itsScore": "196/2",
+                "oppScore": "195/5",
+                "result": "Royals won by 8 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "154/6",
+                "oppScore": "156/2",
+                "result": "Sunrisers won by 8 wickets "
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "126/3",
+                "oppScore": "125/5",
+                "result": "Royals won by 7 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "177/6",
+                "oppScore": "179/3",
+                "result": "RCB won by 7 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Delhi Capitals",
+                "itsScore": "148/8",
+                "oppScore": "161/7",
+                "result": "Capitals won by 13 runs"
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Sunrisers Hyderabad",
+                "itsScore": "163/5",
+                "oppScore": "158/4",
+                "result": "Royals won by 5 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Delhi Capitals",
+                "itsScore": "138",
+                "oppScore": "184/8",
+                "result": "Capitals won by 46 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Mumbai Indians",
+                "itsScore": "136",
+                "oppScore": "193/4",
+                "result": "Mumbai won by 57 runs"
+            },
+            {
+                "venue": "Abu Dhabi",
+                "opponent": "Royal Challengers Bangalore",
+                "itsScore": "154/6",
+                "oppScore": "158/2",
+                "result": "RCB won by 8 wickets "
+            },
+            {
+                "venue": "Dubai (DSC)",
+                "opponent": "Kolkata Knight Riders",
+                "itsScore": "137/9",
+                "oppScore": "174/6",
+                "result": "KKR won by 37 runs"
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Kings XI Punjab",
+                "itsScore": "226/6",
+                "oppScore": "223/2",
+                "result": "Royals won by 4 wickets "
+            },
+            {
+                "venue": "Sharjah",
+                "opponent": "Chennai Super Kings",
+                "itsScore": "216/7",
+                "oppScore": "200/6",
+                "result": "Royals won by 16 runs"
+            }
+        ]
+    }
+]
