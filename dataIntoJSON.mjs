@@ -1,13 +1,15 @@
-
-const fs = require("fs");
+import * as fs from 'fs';
 
 let teams = [];
-fs.readFile("./Raw-Data.json", "utf-8", function(err, data){
-    if(err) throw err;
-    let parsed = JSON.parse(data);
-    putAllTeams(parsed);
-    putMatchesTeamsWise(parsed);
-})
+
+function customizeData(){
+    fs.readFile("./Raw-Data.json", "utf-8", function(err, data){
+        if(err) throw err;
+        let parsed = JSON.parse(data);
+        putAllTeams(parsed);
+        putMatchesTeamsWise(parsed);
+    })
+}
 
 let teamsArray = [];
 
@@ -24,16 +26,6 @@ function putAllTeams(processedJSON){
             teamsArray.push(teamObj);
         }
     }
-}
-
-function dataInFiles(){
-    let strData = JSON.stringify(teamsArray);
-    fs.writeFile("teams.json", strData, "utf-8", (err) => {
-        if(err) throw err;
-        else {
-            console.log("Data written Successfully");
-        }
-    });
 }
 
 function ifexists(teamName){
@@ -88,4 +80,14 @@ function putMatchesTeamsWise(parsedJSON){
     dataInFiles();
 }
 
+function dataInFiles(){
+    let strData = JSON.stringify(teamsArray);
+    fs.writeFile("teams.json", strData, "utf-8", (err) => {
+        if(err) throw err;
+        else {
+            console.log("Data written Successfully");
+        }
+    });
+}
 
+export default customizeData;
