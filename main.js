@@ -1,9 +1,15 @@
 const url = "https://www.espncricinfo.com/series/ipl-2020-21-1210595/match-results";
 
-const axios = require("axios").default;
-const fs = require("fs");
-const path = require("path");
-const jsdom = require("jsdom");
+// these two lines are used for available require 
+// and import both in same file
+import { createRequire } from "module";
+const require = createRequire(import.meta.url);
+
+const axios = require("axios");
+import * as fs from "fs";
+// import * as path from "path";
+import jsdom from 'jsdom';
+import customizeData from './dataIntoJSON.mjs';
 
 let responsePromise = axios.get(url);
 
@@ -18,7 +24,6 @@ responsePromise.then(function(response){
     console.log(error);
     console.log("Encountered with an error");
 })
-
 
 function withdrawInfo(document){
     let totalMatchCards = document.querySelectorAll("div.match-info.match-info-FIXTURES");
@@ -57,3 +62,5 @@ function setProperties(cards){
     })
     // console.log("Done");
 }
+
+customizeData();
