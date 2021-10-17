@@ -10,6 +10,7 @@ import * as fs from "fs";
 // import * as path from "path";
 import jsdom from 'jsdom';
 import customizeData from './dataIntoJSON.mjs';
+import insertData from './dataInExcel.mjs';
 
 let responsePromise = axios.get(url);
 
@@ -64,3 +65,4 @@ function setProperties(cards){
 }
 
 customizeData();
+insertData();
