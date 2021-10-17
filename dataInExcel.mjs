@@ -41,8 +41,6 @@ function insertData(){
     });
 }
 
-insertData();
-
 function insertHelper(ws, teamInfo){
 
     ws.cell(1, 1).string("VENUE").style(header);
@@ -63,3 +61,5 @@ function insertHelper(ws, teamInfo){
         ws.cell(3+i,5).string(obj.result).style(content);
     }
 }
+
+export default insertData;

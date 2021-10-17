@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^0.22.0",
+    "excel4node": "^1.2.1",
+    "jsdom": "^17.0.0",
+    "pdf-lib": "^1.17.0"
+  },
+  "type": "module",
+  "name": "websrcapping",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codea-holic/web-scrapping-cricinfo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codea-holic/web-scrapping-cricinfo/issues"
+  },
+  "homepage": "https://github.com/codea-holic/web-scrapping-cricinfo#readme",
+  "description": ""
+}
